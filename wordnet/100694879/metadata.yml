@@ -1,0 +1,13 @@
+---
+:id: 100694879
+:submitters:
+- :name: Nina
+  :email: ncarlson@clarku.edu
+- :name: Ella
+  :email: elgrady@clarku.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-11-17 02:50:24.314517000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-16 18:50:24.314517000 Z
+:status: processed

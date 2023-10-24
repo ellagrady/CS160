@@ -1,0 +1,12 @@
+---
+:id: 91577642
+:submitters:
+- :name: Ella
+  :email: elgrady@clarku.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-10-04 16:04:39.122765000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-10-04 09:04:39.122765000 Z
+:status: processed
+:score: 92.25
